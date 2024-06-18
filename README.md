@@ -11,7 +11,7 @@ Organized Layers: The Figma file is structured with well-organized layers and gr
 `README.md`: This file, providing an overview of the repository and instructions for usage.
 
 ## Preview:
-![design](https://github.com/SANJAYSS-SRM-26/Design-School-Landing-Page-Design-in-Figma/blob/main/DesignSchool.png)
+![design](https://github.com/SANJAYSS-SRM-26/Logitech-Mice-Design-Page-Figma/blob/main/Mice.png)
 
 ## This design is made as practice while learning Figma with reference to Nikhil Pawar Youtube Channel
 
